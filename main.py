@@ -1,6 +1,10 @@
-import cv2
+import cv2                      # OpenCV (cv2): librería para visión artificial y procesamiento de imágenes.
 from ultralytics import YOLO
-import easyocr
+import easyocr                  # EasyOCR: librería para reconocimiento óptico de caracteres (OCR).
+import numpy as np              # NumPy: librería para trabajar con matrices y vectores multidimensionales.
+import imutils                  # imutils: librería con funciones de utilidad para procesamiento de imágenes con OpenCV.
+import rembg                    # rembg: librería para eliminar el fondo de una imagen.
+from PIL import Image           # PIL (Pillow): librería para abrir, manipular y guardar imágenes.
 
 
 print("Cargando modelo YOLO...")

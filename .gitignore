@@ -1,0 +1,4 @@
+*.py
+!main.py
+*.pt
+ejemplos/

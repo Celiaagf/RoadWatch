@@ -2,3 +2,6 @@ ultralytics
 easyocr
 opencv-python
 numpy
+imutils
+rembg
+Pillow
