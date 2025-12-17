@@ -1,4 +1,3 @@
 *.py
-!main.py
 *.pt
-ejemplos/
+!main.py
