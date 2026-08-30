@@ -1,8 +1,4 @@
 ultralytics
 opencv-python
 numpy
-imutils
-rembg
-paddleocr
-cvzone
-paddlepaddle
+pytesseract
